@@ -1,5 +1,22 @@
 # Maryland Violent Crime Tableau Data Story
 
+## Dashboard Preview
+### Dashboard 1A
+![Dashboard 1A](images/1A.png)
+
+### Dashboard 1B
+![Dashboard 1B](images/1B.png)
+
+### Dashboard 2A
+![Dashboard 2A](images/2A.png)
+
+### Dashboard 2B
+![Dashboard 2B](images/2B.png)
+
+### Dashboard 2C
+![Dashboard 2C](images/2C.png)
+
+
 ## Project Overview
 
 This Tableau project explores patterns of violent crime across cities in Maryland using incident-level data from the FBI National Incident-Based Reporting System (NIBRS).
