@@ -51,7 +51,7 @@ The goal of this project is to understand how violent crime varies by offense ty
 
 ## Tools Used
 
-- Tableau
+- Tableau(public)
 - Microsoft Excel
 - FBI NIBRS Crime Data
 
