@@ -15,13 +15,13 @@ The goal of this project is to understand how violent crime varies by offense ty
 
 ## Files Included
 
-- `Final Submission-- Xinyu Yuan.twbx`  
+- `Maryland Violent Crime.twbx`  
   Tableau packaged workbook containing the final dashboards and story.
 
-- `Final Project.xlsx`  
+- `Data.xlsx`  
   Data file used for the Tableau visualization.
 
-- `Final Project VisUMD Blog Post.pdf`  
+- `Blog Post.pdf`  
   Written project report explaining the background, research questions, visualization design, findings, limitations, and next steps.
 
 ## Key Findings
